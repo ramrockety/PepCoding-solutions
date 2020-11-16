@@ -11,6 +11,3 @@
 * [Recursion Backtracking](#Recursion-Backtracking)
 
 
-|  0  | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world)                                  				  | [Day0HelloWorld.java](https://github.com/ramrockety/HackerRank-Solutions/blob/master/HackerRankDashboard/30DaysOfCode/Day0HelloWorld.java)               									    |														       |
-
-

@@ -2,6 +2,7 @@
 
 ## [Datastructures And Algorithms](#Datastructures-And-Algorithms)
 ### [**Basics of Programming**](#Basics-of-Programming)
+* [Getting Started](#Getting-Started)
 ### [**Recursion and Backtracking**](#Recursion-and-Backtracking)
 * [Introduction to recursion](#Introduction-to-recursion)
 * [Recursion in Arrays](#Recursion-in-Arrays)
